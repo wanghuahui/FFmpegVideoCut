@@ -1,0 +1,5 @@
+LIBRARY "ffmpeghelper"
+EXPORTS
+
+SplitVideo    @1
+test          @2
